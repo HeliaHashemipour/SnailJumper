@@ -1,3 +1,7 @@
+> Instructor: [Dr. M. M. Ebadzadeh](https://scholar.google.com/citations?user=080Y_lUAAAAJ&hl=en)
+
+> Semester: Spring 2022
+
 # snailJumper
 
 The aim of this project is to use an evolutionary algorithm to learn neural network in anenvironment where there is not enough data to learn. One of these environments is the game, where there is always something new happening, and therefore creating trainable data is almost impossible.
